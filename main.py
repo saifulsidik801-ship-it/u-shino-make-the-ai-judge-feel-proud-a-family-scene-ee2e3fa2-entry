@@ -12,6 +12,7 @@ telling specific detail instead of a greeting-card line.
 import os
 
 SCENE = (
+    # 172 characters, one line — inside the 1-280 gate.
     "Grandpa pretends he can't hear the smoke alarm, so my daughter gets "
     "to be the hero who 'saves' dinner every night. "
     "She has saved us 214 times. He keeps count on the fridge."
